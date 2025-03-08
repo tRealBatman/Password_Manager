@@ -2,7 +2,7 @@
 
 --Description--
 
-A simple application written in python script where you can store your passwords. Each password is related to one website(e.g. facebook,gmail,steam etc.).
+A simple application written in python script where you can store your passwords. Each password is related to one account(e.g. facebook,gmail,steam etc.).
 However, to enter the application you will need to enter the 'key', which is a password that you enter the first time you open the application.
 The logic behind this is, instead of having to keep track of all the different passwords you just remember the key and the rest of your passwords
 are stored in the application.
