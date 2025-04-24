@@ -1,6 +1,6 @@
 import customtkinter as ctk
 from tkinter import messagebox
-from ewr import check_key,get_sites,decrypt_message_og,choice_1,new_key,encrypt_with_new_key,read_key,backup_passwords
+from password_manager import check_key,get_sites,decrypt_message_og,choice_1,new_key,encrypt_with_new_key,read_key,backup_passwords
 
 def on_click(event,site):
     # Get the widget that triggered the event

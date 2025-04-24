@@ -1,7 +1,6 @@
 from Crypto.Hash import SHA256
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad,unpad
-from hashlib import sha256
 file_path = ".\\password.txt"
 
 try:
